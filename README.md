@@ -8,3 +8,5 @@
 **ML_model_investigation** notebook contains the process of data investigation, categorical features handling and first-try models.
 
 **ML_prediction** notebook contains the process of models investigation including the outliers detection models from sklearn and tree-based 2-model architecure.
+
+**NB: due to data confidentiality we are not allowed to show tables and graphs (cells output are cleared).**
